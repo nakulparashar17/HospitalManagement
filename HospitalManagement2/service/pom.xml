@@ -7,4 +7,5 @@
   </parent>
   <artifactId>service</artifactId>
   <name>service</name>
+  <packaging>jar</packaging>
 </project>
